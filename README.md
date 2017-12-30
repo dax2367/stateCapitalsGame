@@ -10,4 +10,4 @@ The user will be presented with a multiple choice question asking them to select
 Feedback:
 If correct congratulations! message appears w/happy sound.
 If incorrect a message appears with the correct answer and an unhappy sound.
-The students running score along with their average is displayed so they can track their success.
+The student's running score along with their average is displayed so they can track their success.
