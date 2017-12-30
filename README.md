@@ -1,7 +1,7 @@
 # stateCapitalsGame
 Study game for learning the US state capital cities.
 
-Work with subroutines,  functions, arrays and get random number generation
+Work with subroutines, functions, arrays and random number generation
 
 Capitals Game – U.S. capitals study game.
 Process:
